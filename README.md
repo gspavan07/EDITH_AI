@@ -301,3 +301,4 @@ Existing assistants are siloed, lack privacy controls, and hard-code integration
 ## 12) Extensibility Notes
 - New MCP servers can be added via config without core logic changes.
 - Each MCP server declares capabilities and schema for dynamic planning.
+
