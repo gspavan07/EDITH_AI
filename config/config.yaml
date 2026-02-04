@@ -1,0 +1,11 @@
+# EDITH configuration (sample)
+llm:
+  provider: OpenAI
+  model: gpt-4o
+interaction_modes:
+  - web
+mcp:
+  local_enabled: false
+  remote_enabled: true
+secrets:
+  api_key: ""

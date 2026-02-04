@@ -113,6 +113,14 @@
 
 ---
 
+## 4.1) Scaffold Status (What Exists in This Repo)
+- A minimal Python package under `edith/` with orchestrator, planner, MCP client, and human gate stubs.
+- A CLI launcher at `scripts/edith` implementing `./edith setup` via `python -m edith.cli`.
+- A sample `config/config.yaml` used as a reference for local-first setup.
+- `docs/architecture.md` with runtime flow and extension notes.
+
+---
+
 ## 5) Core System Prompts (Representative)
 ### 5.1 Orchestrator System Prompt
 ```
